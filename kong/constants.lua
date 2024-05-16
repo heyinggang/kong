@@ -43,6 +43,7 @@ local plugins = {
   "ai-request-transformer",
   "ai-response-transformer",
   "standard-webhooks",
+  "http-grpc",
 }
 
 local plugin_map = {}
